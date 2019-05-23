@@ -1,6 +1,6 @@
 #test environment 
 browser='Chrome'
-register='arloqaregister'
+register='web_register'
 test_password='Test123'
 url='https://www.check24.de/'
 
